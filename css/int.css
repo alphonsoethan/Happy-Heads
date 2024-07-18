@@ -1,0 +1,97 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Aboreto', cursive;
+}
+
+body{
+    background: #fef0f1;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card{
+    background: #f1c296;
+    width: 420px;
+    height: 635px;
+    margin: 10px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px #115473;
+}
+
+.card h2{
+    padding: 15px;
+    font-size: 30px;
+    color: #614944;
+}
+
+.card p{
+    padding: 10px;
+    font-size: 18px;
+    color: #a75e66;
+}
+
+.button-b{
+    padding: 8px 20px;
+    margin: 7px 0;
+    border: 2px solid #a75e66;
+    border-radius: 0 0 0 15px;
+    background: #b9cbd9; 
+    font-size: larger;
+    color: #614944;
+    cursor: pointer;
+    justify-content: center;
+    
+}
+
+.button-back{
+    align-items: center;
+    justify-content: center;
+    padding-left: 35px;
+    padding-top: 25px;
+}
+
+.button-back :hover{
+    text-decoration: none;
+    color: #fef0f1;
+    background-color: rgb(62, 62, 62);
+    transform: scale(1.03);
+    transition: all 1s ease;
+}
+
+.button-c{
+    padding: 8px 20px;
+    margin: 7px 0;
+    border: 2px solid #a75e66;
+    border-radius: 0 0 15px 0;
+    background: #b9cbd9; 
+    font-size: larger;
+    color: #614944;
+    cursor: pointer;
+    justify-content: center;
+    
+}
+
+.button-cont{
+    align-items: center;
+    justify-content: center;
+    padding-left: 120px;
+    padding-top: 25px;
+}
+
+.button-cont :hover{
+    text-decoration: none;
+    color: #fef0f1;
+    background-color: rgb(62, 62, 62);
+    transform: scale(1.03);
+    transition: all 1s ease;
+}
+
+.butt{
+    display: flex;
+}

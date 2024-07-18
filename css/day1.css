@@ -1,0 +1,418 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Aboreto', cursive;
+}
+
+.butt-q{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+.buttona{
+    padding: 8px 20px;
+    margin: 7px 0;
+    border-radius: 16px;
+    font-size: larger;
+    background: #93c09e;
+    border: 2px solid #a75e66;
+    color: #115473;
+    cursor: pointer;
+    justify-content: center;
+    
+}
+
+.button-a{
+    align-items: center;
+    justify-content: center;
+    padding-right: 50px;
+    padding-top: 45px;
+}
+
+.button-a :hover{
+    text-decoration: none;
+    color: #ffd700;
+    background-color: #136185;
+    transform: scale(1.03);
+    transition: all 1s ease;
+}
+
+.buttonb{
+    padding: 8px 20px;
+    margin: 7px 0;
+    border-radius: 16px;
+    font-size: larger;
+    background: #93c09e;
+    border: 2px solid #a75e66;
+    color: #115473;
+    cursor: pointer;
+    justify-content: center;
+    
+}
+
+.button-b2{
+    align-items: center;
+    justify-content: center;
+    padding-left: 280px;
+    padding-top: 45px;
+}
+
+.button-b2 :hover{
+    text-decoration: none;
+    color: #ffd700;
+    background-color: #136185;
+    transform: scale(1.03);
+    transition: all 1s ease;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-top: 185px;
+}
+
+.card{
+    background: #fcc9c5;
+    width: 660px;
+    height: 250px;
+    margin: 10px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px #115473;
+}
+
+.card h2{
+    padding: 15px;
+    font-size: 30px;
+    color: #614944;
+    padding-left: 30px;
+}
+
+body{
+    background: #eae7e2;
+}
+
+.butt-f{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.button-b{
+    padding: 8px 20px;
+    margin: 7px 0;
+    border: 2px solid #a75e66;
+    border-radius: 9px;
+    background: #b9cbd9; 
+    font-size: larger;
+    color: #614944;
+    cursor: pointer;
+    justify-content: center;
+    
+}
+
+.button-back{
+    align-items: center;
+    justify-content: center;
+    padding-top: 70px;
+}
+
+.button-back :hover{
+    text-decoration: none;
+    color: red;
+    background-color: #f5ce8b;
+    border: 2px solid #115473;
+    transform: scale(1.03);
+    transition: all 1s ease;
+}
+
+.butt-m{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+.button1{
+    padding: 8px 20px;
+    margin: 7px 0;
+    border-radius: 16px;
+    font-size: larger;
+    background: #93c09e;
+    border: 2px solid #a75e66;
+    color: #115473;
+    cursor: pointer;
+    justify-content: center;
+    
+}
+
+.button-1{
+    align-items: center;
+    justify-content: center;
+    padding: 3px;
+    padding-top: 45px;
+}
+
+.button-1 :hover{
+    text-decoration: none;
+    color: #ffd700;
+    background-color: #136185;
+    transform: scale(1.03);
+    transition: all 1s ease;
+}
+
+.button2{
+    padding: 8px 20px;
+    margin: 7px 0;
+    border-radius: 16px;
+    font-size: larger;
+    background: #93c09e;
+    border: 2px solid #a75e66;
+    color: #115473;
+    cursor: pointer;
+    justify-content: center;
+    
+}
+
+.button-2{
+    align-items: center;
+    justify-content: center;
+    padding: 3px;
+    padding-top: 45px;
+}
+
+.button-2 :hover{
+    text-decoration: none;
+    color: #ffd700;
+    background-color: #136185;
+    transform: scale(1.03);
+    transition: all 1s ease;
+}
+
+.button3{
+    padding: 8px 20px;
+    margin: 7px 0;
+    border-radius: 16px;
+    font-size: larger;
+    background: #93c09e;
+    border: 2px solid #a75e66;
+    color: #115473;
+    cursor: pointer;
+    justify-content: center;
+    
+}
+
+.button-3{
+    align-items: center;
+    justify-content: center;
+    padding: 3px;
+    padding-top: 45px;
+}
+
+.button-3 :hover{
+    text-decoration: none;
+    color: #ffd700;
+    background-color: #136185;
+    transform: scale(1.03);
+    transition: all 1s ease;
+}
+
+.button4{
+    padding: 8px 20px;
+    margin: 7px 0;
+    border-radius: 16px;
+    font-size: larger;
+    background: #93c09e;
+    border: 2px solid #a75e66;
+    color: #115473;
+    cursor: pointer;
+    justify-content: center;
+    
+}
+
+.button-4{
+    align-items: center;
+    justify-content: center;
+    padding: 3px;
+    padding-top: 45px;
+}
+
+.button-4 :hover{
+    text-decoration: none;
+    color: #ffd700;
+    background-color: #136185;
+    transform: scale(1.03);
+    transition: all 1s ease;
+}
+
+.button5{
+    padding: 8px 20px;
+    margin: 7px 0;
+    border-radius: 16px;
+    font-size: larger;
+    background: #93c09e;
+    border: 2px solid #a75e66;
+    color: #115473;
+    cursor: pointer;
+    justify-content: center;
+    
+}
+
+.button-5{
+    align-items: center;
+    justify-content: center;
+    padding: 3px;
+    padding-top: 45px;
+}
+
+.button-5 :hover{
+    text-decoration: none;
+    color: #ffd700;
+    background-color: #136185;
+    transform: scale(1.03);
+    transition: all 1s ease;
+}
+
+.button6{
+    padding: 8px 20px;
+    margin: 7px 0;
+    border-radius: 16px;
+    font-size: larger;
+    background: #93c09e;
+    border: 2px solid #a75e66;
+    color: #115473;
+    cursor: pointer;
+    justify-content: center;
+    
+}
+
+.button-6{
+    align-items: center;
+    justify-content: center;
+    padding: 3px;
+    padding-top: 45px;
+}
+
+.button-6 :hover{
+    text-decoration: none;
+    color: #ffd700;
+    background-color: #136185;
+    transform: scale(1.03);
+    transition: all 1s ease;
+}
+
+.button7{
+    padding: 8px 20px;
+    margin: 7px 0;
+    border-radius: 16px;
+    font-size: larger;
+    background: #93c09e;
+    border: 2px solid #a75e66;
+    color: #115473;
+    cursor: pointer;
+    justify-content: center;
+    
+}
+
+.button-7{
+    align-items: center;
+    justify-content: center;
+    padding: 3px;
+    padding-top: 45px;
+}
+
+.button-7 :hover{
+    text-decoration: none;
+    color: #ffd700;
+    background-color: #136185;
+    transform: scale(1.03);
+    transition: all 1s ease;
+}
+
+.button8{
+    padding: 8px 20px;
+    margin: 7px 0;
+    border-radius: 16px;
+    font-size: larger;
+    background: #93c09e;
+    border: 2px solid #a75e66;
+    color: #115473;
+    cursor: pointer;
+    justify-content: center;
+    
+}
+
+.button-8{
+    align-items: center;
+    justify-content: center;
+    padding: 3px;
+    padding-top: 45px;
+}
+
+.button-8 :hover{
+    text-decoration: none;
+    color: #ffd700;
+    background-color: #136185;
+    transform: scale(1.03);
+    transition: all 1s ease;
+}
+
+.button9{
+    padding: 8px 20px;
+    margin: 7px 0;
+    border-radius: 16px;
+    font-size: larger;
+    background: #93c09e;
+    border: 2px solid #a75e66;
+    color: #115473;
+    cursor: pointer;
+    justify-content: center;
+    
+}
+
+.button-9{
+    align-items: center;
+    justify-content: center;
+    padding: 3px;
+    padding-top: 45px;
+}
+
+.button-9 :hover{
+    text-decoration: none;
+    color: #ffd700;
+    background-color: #136185;
+    transform: scale(1.03);
+    transition: all 1s ease;
+}
+
+.button10{
+    padding: 8px 20px;
+    margin: 7px 0;
+    border-radius: 16px;
+    font-size: larger;
+    background: #93c09e;
+    border: 2px solid #a75e66;
+    color: #115473;
+    cursor: pointer;
+    justify-content: center;
+    
+}
+
+.button-10{
+    align-items: center;
+    justify-content: center;
+    padding: 3px;
+    padding-top: 45px;
+}
+
+.button-10 :hover{
+    text-decoration: none;
+    color: #ffd700;
+    background-color: #136185;
+    transform: scale(1.03);
+    transition: all 1s ease;
+}
+
